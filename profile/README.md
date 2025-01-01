@@ -8,7 +8,7 @@ Latest Version
 
 Category
 
-[Entertainment](https://apkpure.net/entertainment "Entertainment")
+Entertainment
 
 Android OS
 
