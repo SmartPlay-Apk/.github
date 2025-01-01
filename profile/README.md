@@ -16,7 +16,7 @@ Android OS
 
 Developer
 
-[SmartPlay TV](https://apkpure.net/developer/SmartPlay%20TV "Get more from SmartPlay TV")
+NC Corporation INC
 
 Available on
 [SmartPlay TV](https://play.google.com/store/apps/details?id=com.sslc.securetv.tv&referrer=utm_source=apkpure.com)
